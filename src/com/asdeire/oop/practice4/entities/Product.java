@@ -1,4 +1,4 @@
-package com.asdeire.oop.practice4.entity;
+package com.asdeire.oop.practice4.entities;
 
 public class Product {
 
@@ -17,4 +17,5 @@ public class Product {
     public double getPrice() {
         return price;
     }
+
 }
