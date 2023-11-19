@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="oop-practice4-master:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/oop_practice4_master_jar</output-path>
+    <root id="archive" name="oop-practice4-master.jar">
+      <element id="module-output" name="oop-practice4-master" />
+    </root>
+  </artifact>
+</component>
